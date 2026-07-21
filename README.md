@@ -6,7 +6,7 @@
 
 ชื่อ-สกุล : ศรัณย์พร ผุสดี
 
-Vercel URL : 
+Vercel URL : https://lab07-680610718.vercel.app/
 
 ---
 
